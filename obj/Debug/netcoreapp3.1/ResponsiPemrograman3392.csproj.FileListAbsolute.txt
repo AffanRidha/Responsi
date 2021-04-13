@@ -1,0 +1,4 @@
+D:\Fileappan\Amikom\PemrogramaanSem2\ResponsiPemrograman3392\ResponsiPemrograman3392\obj\Debug\netcoreapp3.1\ResponsiPemrograman3392.csprojAssemblyReference.cache
+D:\Fileappan\Amikom\PemrogramaanSem2\ResponsiPemrograman3392\ResponsiPemrograman3392\obj\Debug\netcoreapp3.1\ResponsiPemrograman3392.AssemblyInfoInputs.cache
+D:\Fileappan\Amikom\PemrogramaanSem2\ResponsiPemrograman3392\ResponsiPemrograman3392\obj\Debug\netcoreapp3.1\ResponsiPemrograman3392.AssemblyInfo.cs
+D:\Fileappan\Amikom\PemrogramaanSem2\ResponsiPemrograman3392\ResponsiPemrograman3392\obj\Debug\netcoreapp3.1\ResponsiPemrograman3392.csproj.CoreCompileInputs.cache
